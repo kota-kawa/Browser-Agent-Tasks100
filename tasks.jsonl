@@ -1,100 +1,100 @@
-{"task_id": 0, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "4Kモニターを検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 1, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「駅はどこですか？」を英語に翻訳してください。"}
-{"task_id": 2, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "コーヒーメーカーを検索して、一番安いものをカートに入れてください。"}
-{"task_id": 3, "category": "travel", "start_url": "https://www.booking.com", "intent": "ニューヨークにある評価が8以上のホテルを探してください。"}
-{"task_id": 4, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "10000円以下でバックパックを探してください。"}
-{"task_id": 5, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "10000円以下で空気清浄機を探してください。"}
-{"task_id": 6, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "スマートフォンケースの送料無料の商品を探してください。"}
-{"task_id": 7, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "ベルリンの壁崩壊について書かれているセクションを探してください。"}
-{"task_id": 8, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "はじめしゃちょーのチャンネルを開いてください。"}
-{"task_id": 9, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "空気清浄機のレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 10, "category": "travel", "start_url": "https://www.jalan.net", "intent": "別府温泉の宿を検索してください。"}
-{"task_id": 11, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "ゲーミングマウスを検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 12, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "ランニングシューズのレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 13, "category": "travel", "start_url": "https://www.booking.com", "intent": "大阪にある評価が8以上のホテルを探してください。"}
-{"task_id": 14, "category": "information", "start_url": "https://www.google.co.jp", "intent": "那覇の明日の天気を調べてください。"}
-{"task_id": 15, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「この電車は新宿に行きますか？」をフランス語に翻訳してください。"}
-{"task_id": 16, "category": "information", "start_url": "https://www.google.co.jp", "intent": "宮崎駿の生年月日を調べてください。"}
-{"task_id": 17, "category": "information", "start_url": "https://www.google.co.jp", "intent": "那覇の明日の天気を調べてください。"}
-{"task_id": 18, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "アポロ11号について書かれているセクションを探してください。"}
-{"task_id": 19, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "USB-Cケーブルを検索して、一番安いものをカートに入れてください。"}
-{"task_id": 20, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "メカニカルキーボードのレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 21, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "4Kモニターのレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 22, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "光合成のページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 23, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「この電車は新宿に行きますか？」をフランス語に翻訳してください。"}
-{"task_id": 24, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "光合成のページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 25, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "はじめしゃちょーのチャンネルを開いてください。"}
-{"task_id": 26, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "10000円以下でコーヒーメーカーを探してください。"}
-{"task_id": 27, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "空気清浄機のレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 28, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「この電車は新宿に行きますか？」を英語に翻訳してください。"}
-{"task_id": 29, "category": "information", "start_url": "https://www.google.co.jp", "intent": "イーロン・マスクの生年月日を調べてください。"}
-{"task_id": 30, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "明治維新について書かれているセクションを探してください。"}
-{"task_id": 31, "category": "information", "start_url": "https://www.google.co.jp", "intent": "円安の影響について調べて、結果を要約してください。"}
-{"task_id": 32, "category": "information", "start_url": "https://www.google.co.jp", "intent": "任天堂の株価を調べてください。"}
-{"task_id": 33, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "スマートフォンケースを検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 34, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "空気清浄機を検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 35, "category": "travel", "start_url": "https://www.booking.com", "intent": "東京のホテルを12月25日から1泊で検索してください。"}
-{"task_id": 36, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "光合成のページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 37, "category": "information", "start_url": "https://www.google.co.jp", "intent": "テイラー・スウィフトの生年月日を調べてください。"}
-{"task_id": 38, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「こんにちは、元気ですか？」を英語に翻訳してください。"}
-{"task_id": 39, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "USB-Cケーブルの送料無料の商品を探してください。"}
-{"task_id": 40, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "コーヒーメーカーの送料無料の商品を探してください。"}
-{"task_id": 41, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "はじめしゃちょーのチャンネルを開いてください。"}
-{"task_id": 42, "category": "information", "start_url": "https://www.google.co.jp", "intent": "大谷翔平の生年月日を調べてください。"}
-{"task_id": 43, "category": "information", "start_url": "https://www.google.co.jp", "intent": "Googleの株価を調べてください。"}
-{"task_id": 44, "category": "travel", "start_url": "https://www.jalan.net", "intent": "草津温泉の宿を検索してください。"}
-{"task_id": 45, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "ルネサンスのページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 46, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "第二次世界大戦のページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 47, "category": "travel", "start_url": "https://www.jalan.net", "intent": "別府温泉の宿を検索してください。"}
-{"task_id": 48, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "スマートフォンケースの送料無料の商品を探してください。"}
-{"task_id": 49, "category": "travel", "start_url": "https://www.booking.com", "intent": "那覇のホテルを来週の土曜日から1泊で検索してください。"}
-{"task_id": 50, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "空気清浄機を検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 51, "category": "travel", "start_url": "https://www.jalan.net", "intent": "箱根温泉の宿を検索してください。"}
-{"task_id": 52, "category": "information", "start_url": "https://www.google.co.jp", "intent": "任天堂の株価を調べてください。"}
-{"task_id": 53, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "ブラックホールのページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 54, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿を検索してください。"}
-{"task_id": 55, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "バックパックの送料無料の商品を探してください。"}
-{"task_id": 56, "category": "information", "start_url": "https://www.google.co.jp", "intent": "最新のAIニュースについて調べて、結果を要約してください。"}
-{"task_id": 57, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「この電車は新宿に行きますか？」をフランス語に翻訳してください。"}
-{"task_id": 58, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "はじめしゃちょーのチャンネルを開いてください。"}
-{"task_id": 59, "category": "travel", "start_url": "https://www.booking.com", "intent": "福岡のホテルを12月25日から1泊で検索してください。"}
-{"task_id": 60, "category": "travel", "start_url": "https://www.booking.com", "intent": "那覇のホテルを12月25日から1泊で検索してください。"}
-{"task_id": 61, "category": "information", "start_url": "https://www.google.co.jp", "intent": "東京の明日の天気を調べてください。"}
-{"task_id": 62, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "コーヒーメーカーの送料無料の商品を探してください。"}
-{"task_id": 63, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「お会計をお願いします。」を英語に翻訳してください。"}
-{"task_id": 64, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "5000円以下でバックパックを探してください。"}
-{"task_id": 65, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "空気清浄機のレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 66, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "空気清浄機を検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 67, "category": "information", "start_url": "https://www.google.co.jp", "intent": "任天堂の株価を調べてください。"}
-{"task_id": 68, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "空気清浄機の送料無料の商品を探してください。"}
-{"task_id": 69, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「お会計をお願いします。」をフランス語に翻訳してください。"}
-{"task_id": 70, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿を検索してください。"}
-{"task_id": 71, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "コーヒーメーカーの送料無料の商品を探してください。"}
-{"task_id": 72, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "明治維新について書かれているセクションを探してください。"}
-{"task_id": 73, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿を検索してください。"}
-{"task_id": 74, "category": "travel", "start_url": "https://www.booking.com", "intent": "ニューヨークにある評価が8以上のホテルを探してください。"}
-{"task_id": 75, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "ワイヤレスイヤホンを検索し、ランキング1位の商品詳細ページを開いてください。"}
-{"task_id": 76, "category": "information", "start_url": "https://www.google.co.jp", "intent": "東京の明日の天気を調べてください。"}
-{"task_id": 77, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "マインクラフト 実況の動画を検索して、一番上の動画を再生してください。"}
-{"task_id": 78, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "スマートフォンケースのレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 79, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿を検索してください。"}
-{"task_id": 80, "category": "information", "start_url": "https://www.google.co.jp", "intent": "大谷翔平の生年月日を調べてください。"}
-{"task_id": 81, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "量子コンピュータのページを開き、概要の最初の段落を読んでください。"}
-{"task_id": 82, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿を検索してください。"}
-{"task_id": 83, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "ヨガ 初心者の動画を検索して、一番上の動画を再生してください。"}
-{"task_id": 84, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "バックパックを検索して、一番安いものをカートに入れてください。"}
-{"task_id": 85, "category": "information", "start_url": "https://www.google.co.jp", "intent": "東京の明日の天気を調べてください。"}
-{"task_id": 86, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "猫 おもしろの動画を検索して、一番上の動画を再生してください。"}
-{"task_id": 87, "category": "travel", "start_url": "https://www.booking.com", "intent": "札幌のホテルをゴールデンウィークから1泊で検索してください。"}
-{"task_id": 88, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「お会計をお願いします。」を英語に翻訳してください。"}
-{"task_id": 89, "category": "travel", "start_url": "https://www.booking.com", "intent": "大阪にある評価が8以上のホテルを探してください。"}
-{"task_id": 90, "category": "information", "start_url": "https://www.google.co.jp", "intent": "福岡の明日の天気を調べてください。"}
-{"task_id": 91, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "スマートフォンケースを検索して、一番安いものをカートに入れてください。"}
-{"task_id": 92, "category": "travel", "start_url": "https://www.booking.com", "intent": "京都にある評価が8以上のホテルを探してください。"}
-{"task_id": 93, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "猫 おもしろの動画を検索して、一番上の動画を再生してください。"}
-{"task_id": 94, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "ワイヤレスイヤホンを検索して、一番安いものをカートに入れてください。"}
-{"task_id": 95, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "ワイヤレスイヤホンのレビューが星4以上の商品を探して、そのURLを教えてください。"}
-{"task_id": 96, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "テックニュースの動画を検索して、一番上の動画を再生してください。"}
-{"task_id": 97, "category": "information", "start_url": "https://www.google.co.jp", "intent": "札幌の明日の天気を調べてください。"}
-{"task_id": 98, "category": "travel", "start_url": "https://www.jalan.net", "intent": "有馬温泉の宿を検索してください。"}
-{"task_id": 99, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "東海オンエアのチャンネルを開いてください。"}
+{"task_id": 0, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "福岡駅周辺で評価が3.5以上の書店を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価3.5以上の書店を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 1, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "大阪から神戸までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 2, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "バックパックを検索して、配送予定日が最短の商品の商品ページを開き、配送予定日を報告してください。", "difficulty": "medium", "success_criteria": "配送予定日が最短の商品ページを開き、配送予定日を提示している。"}
+{"task_id": 3, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "空気清浄機の送料無料かつレビュー件数が500件以上の商品を1つ見つけ、商品名とURLを教えてください。", "difficulty": "hard", "success_criteria": "送料無料かつレビュー件数500件以上の商品名とURLが示されている。"}
+{"task_id": 4, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "京都駅周辺で評価が3.5以上の美術館を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価3.5以上の美術館を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 5, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "ルネサンスのページを開き、概要の最初の段落を要約してください。", "difficulty": "medium", "success_criteria": "概要の最初の段落が要約されている。"}
+{"task_id": 6, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "明治維新について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 7, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "バックパックを検索し、ランキング上位3件のうち最安の商品ページを開いて価格を教えてください。", "difficulty": "hard", "success_criteria": "ランキング上位3件の比較が行われ、最安の価格が示されている。"}
+{"task_id": 8, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "札幌駅周辺で評価が4.5以上の美術館を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.5以上の美術館を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 9, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "札幌駅周辺で評価が4.5以上の美術館を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.5以上の美術館を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 10, "category": "travel", "start_url": "https://www.booking.com", "intent": "京都のホテルをゴールデンウィークから1泊で検索し、評価が4.5以上で最安のホテル名と価格を教えてください。", "difficulty": "hard", "success_criteria": "評価4.5以上の中で最安のホテル名と価格が示されている。"}
+{"task_id": 11, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿で、20000円以下のプランを探してプラン名を報告してください。", "difficulty": "hard", "success_criteria": "20000円以下のプラン名が示されている。"}
+{"task_id": 12, "category": "travel", "start_url": "https://www.booking.com", "intent": "東京で朝食付きプランのホテルを探し、最初に表示されたホテルの名前を報告してください。", "difficulty": "medium", "success_criteria": "朝食付きの条件で検索し、最初に表示されたホテル名が示されている。"}
+{"task_id": 13, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "ニューヨークから神戸までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 14, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「駅はどこですか？」をスペイン語に翻訳し、翻訳結果を報告してください。", "difficulty": "easy", "success_criteria": "スペイン語への翻訳結果が示されている。"}
+{"task_id": 15, "category": "information", "start_url": "https://www.google.co.jp", "intent": "宮崎駿の生年月日を調べ、情報元のサイト名もあわせて報告してください。", "difficulty": "medium", "success_criteria": "生年月日と参照したサイト名が示されている。"}
+{"task_id": 16, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "HIKAKINのチャンネルを開き、最新動画のタイトルを報告してください。", "difficulty": "medium", "success_criteria": "チャンネルの最新動画タイトルが示されている。"}
+{"task_id": 17, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "はじめしゃちょーのチャンネルを開き、最新動画のタイトルを報告してください。", "difficulty": "medium", "success_criteria": "チャンネルの最新動画タイトルが示されている。"}
+{"task_id": 18, "category": "information", "start_url": "https://www.google.co.jp", "intent": "Googleの株価(現在値)を調べ、前日比もあわせて報告してください。", "difficulty": "hard", "success_criteria": "現在値と前日比が提示されている。"}
+{"task_id": 19, "category": "travel", "start_url": "https://www.jalan.net", "intent": "別府温泉の宿で、10000円以下のプランを探してプラン名を報告してください。", "difficulty": "hard", "success_criteria": "10000円以下のプラン名が示されている。"}
+{"task_id": 20, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "ブラックホールのページを開き、概要の最初の段落を要約してください。", "difficulty": "medium", "success_criteria": "概要の最初の段落が要約されている。"}
+{"task_id": 21, "category": "travel", "start_url": "https://www.booking.com", "intent": "ニューヨークで朝食付きプランのホテルを探し、最初に表示されたホテルの名前を報告してください。", "difficulty": "medium", "success_criteria": "朝食付きの条件で検索し、最初に表示されたホテル名が示されている。"}
+{"task_id": 22, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "テックニュースの動画を検索し、再生回数が最も多い動画のタイトルと再生回数を報告してください。", "difficulty": "hard", "success_criteria": "検索結果から再生回数が最大の動画を特定し、タイトルと再生回数が示されている。"}
+{"task_id": 23, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "パリから名古屋までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 24, "category": "travel", "start_url": "https://www.booking.com", "intent": "パリのホテルを明日から1泊で検索し、評価が3.5以上で最安のホテル名と価格を教えてください。", "difficulty": "hard", "success_criteria": "評価3.5以上の中で最安のホテル名と価格が示されている。"}
+{"task_id": 25, "category": "travel", "start_url": "https://www.jalan.net", "intent": "下呂温泉の宿を検索し、評価が4.2以上の宿を1つ選び、その宿名と評価を報告してください。", "difficulty": "medium", "success_criteria": "評価4.2以上の宿名と評価が示されている。"}
+{"task_id": 26, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "アポロ11号について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 27, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "札幌から名古屋までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 28, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "ワイヤレスイヤホンを検索し、色が白のバリエーションを選択して価格を確認してください。", "difficulty": "medium", "success_criteria": "白のバリエーションを選択した状態で価格が示されている。"}
+{"task_id": 29, "category": "travel", "start_url": "https://www.jalan.net", "intent": "草津温泉の宿で、20000円以下のプランを探してプラン名を報告してください。", "difficulty": "hard", "success_criteria": "20000円以下のプラン名が示されている。"}
+{"task_id": 30, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "京都駅周辺で評価が4.2以上のカフェを検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.2以上のカフェを検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 31, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "フランス革命について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 32, "category": "travel", "start_url": "https://www.booking.com", "intent": "那覇のホテルを明日から1泊で検索し、評価が4.5以上で最安のホテル名と価格を教えてください。", "difficulty": "hard", "success_criteria": "評価4.5以上の中で最安のホテル名と価格が示されている。"}
+{"task_id": 33, "category": "travel", "start_url": "https://www.booking.com", "intent": "東京で朝食付きプランのホテルを探し、最初に表示されたホテルの名前を報告してください。", "difficulty": "medium", "success_criteria": "朝食付きの条件で検索し、最初に表示されたホテル名が示されている。"}
+{"task_id": 34, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "アポロ11号について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 35, "category": "travel", "start_url": "https://www.jalan.net", "intent": "草津温泉の宿を検索し、評価が4.5以上の宿を1つ選び、その宿名と評価を報告してください。", "difficulty": "medium", "success_criteria": "評価4.5以上の宿名と評価が示されている。"}
+{"task_id": 36, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "4Kモニターを検索し、ランキング上位3件のうち最安の商品ページを開いて価格を教えてください。", "difficulty": "hard", "success_criteria": "ランキング上位3件の比較が行われ、最安の価格が示されている。"}
+{"task_id": 37, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "メカニカルキーボードを検索して、配送予定日が最短の商品の商品ページを開き、配送予定日を報告してください。", "difficulty": "medium", "success_criteria": "配送予定日が最短の商品ページを開き、配送予定日を提示している。"}
+{"task_id": 38, "category": "travel", "start_url": "https://www.booking.com", "intent": "東京のホテルをゴールデンウィークから1泊で検索し、評価が4.5以上で最安のホテル名と価格を教えてください。", "difficulty": "hard", "success_criteria": "評価4.5以上の中で最安のホテル名と価格が示されている。"}
+{"task_id": 39, "category": "travel", "start_url": "https://www.jalan.net", "intent": "別府温泉の宿を検索し、評価が4.5以上の宿を1つ選び、その宿名と評価を報告してください。", "difficulty": "medium", "success_criteria": "評価4.5以上の宿名と評価が示されている。"}
+{"task_id": 40, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "ニューヨークから名古屋までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 41, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "福岡から横浜までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 42, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "京都から神戸までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 43, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "テックニュースの動画を検索し、再生回数が最も多い動画のタイトルと再生回数を報告してください。", "difficulty": "hard", "success_criteria": "検索結果から再生回数が最大の動画を特定し、タイトルと再生回数が示されている。"}
+{"task_id": 44, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "光合成のページを開き、概要の最初の段落を要約してください。", "difficulty": "medium", "success_criteria": "概要の最初の段落が要約されている。"}
+{"task_id": 45, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "パリ駅周辺で評価が4.0以上のレストランを検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.0以上のレストランを検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 46, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「こんにちは、元気ですか？」をスペイン語に翻訳し、翻訳結果を報告してください。", "difficulty": "easy", "success_criteria": "スペイン語への翻訳結果が示されている。"}
+{"task_id": 47, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "東海オンエアのチャンネルを開き、最新動画のタイトルを報告してください。", "difficulty": "medium", "success_criteria": "チャンネルの最新動画タイトルが示されている。"}
+{"task_id": 48, "category": "travel", "start_url": "https://www.booking.com", "intent": "京都のホテルを明日から1泊で検索し、評価が4.2以上で最安のホテル名と価格を教えてください。", "difficulty": "hard", "success_criteria": "評価4.2以上の中で最安のホテル名と価格が示されている。"}
+{"task_id": 49, "category": "travel", "start_url": "https://www.booking.com", "intent": "パリのホテルを来週の土曜日から1泊で検索し、評価が4.0以上で最安のホテル名と価格を教えてください。", "difficulty": "hard", "success_criteria": "評価4.0以上の中で最安のホテル名と価格が示されている。"}
+{"task_id": 50, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "コーヒーメーカーを検索し、色が青のバリエーションを選択して価格を確認してください。", "difficulty": "medium", "success_criteria": "青のバリエーションを選択した状態で価格が示されている。"}
+{"task_id": 51, "category": "travel", "start_url": "https://www.jalan.net", "intent": "箱根温泉の宿で、20000円以下のプランを探してプラン名を報告してください。", "difficulty": "hard", "success_criteria": "20000円以下のプラン名が示されている。"}
+{"task_id": 52, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "ベルリンの壁崩壊について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 53, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "量子コンピュータのページを開き、概要の最初の段落を要約してください。", "difficulty": "medium", "success_criteria": "概要の最初の段落が要約されている。"}
+{"task_id": 54, "category": "travel", "start_url": "https://www.booking.com", "intent": "パリで朝食付きプランのホテルを探し、最初に表示されたホテルの名前を報告してください。", "difficulty": "medium", "success_criteria": "朝食付きの条件で検索し、最初に表示されたホテル名が示されている。"}
+{"task_id": 55, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「こんにちは、元気ですか？」を英語に翻訳したうえで、丁寧表現になっているか確認してください。", "difficulty": "medium", "success_criteria": "英語翻訳結果が示され、丁寧表現かどうかの判断がある。"}
+{"task_id": 56, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "札幌から名古屋までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 57, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "コーヒーメーカーを検索し、価格が5000円以下かつレビュー評価が星3.5以上の商品を1つ選び、商品名と価格を答えてください。", "difficulty": "hard", "success_criteria": "条件(価格5000円以下、評価星3.5以上)を満たす商品名と価格が提示されている。"}
+{"task_id": 58, "category": "information", "start_url": "https://www.google.co.jp", "intent": "テイラー・スウィフトの生年月日を調べ、情報元のサイト名もあわせて報告してください。", "difficulty": "medium", "success_criteria": "生年月日と参照したサイト名が示されている。"}
+{"task_id": 59, "category": "shopping", "start_url": "https://www.amazon.co.jp", "intent": "スマートフォンケースを検索し、色が赤のバリエーションを選択して価格を確認してください。", "difficulty": "medium", "success_criteria": "赤のバリエーションを選択した状態で価格が示されている。"}
+{"task_id": 60, "category": "information", "start_url": "https://www.google.co.jp", "intent": "Pythonの学習方法について調べ、信頼できる情報源を2つ以上見つけて要点を3つにまとめてください。", "difficulty": "hard", "success_criteria": "2つ以上の情報源に言及し、要点が3つに整理されている。"}
+{"task_id": 61, "category": "information", "start_url": "https://www.google.co.jp", "intent": "ニューヨークの明日の天気を調べ、降水確率と最高気温を報告してください。", "difficulty": "medium", "success_criteria": "降水確率と最高気温が示されている。"}
+{"task_id": 62, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「駅はどこですか？」をフランス語に翻訳し、翻訳結果を報告してください。", "difficulty": "easy", "success_criteria": "フランス語への翻訳結果が示されている。"}
+{"task_id": 63, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "アポロ11号について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 64, "category": "information", "start_url": "https://www.google.co.jp", "intent": "京都の明日の天気を調べ、降水確率と最高気温を報告してください。", "difficulty": "medium", "success_criteria": "降水確率と最高気温が示されている。"}
+{"task_id": 65, "category": "travel", "start_url": "https://www.jalan.net", "intent": "別府温泉の宿を検索し、評価が3.5以上の宿を1つ選び、その宿名と評価を報告してください。", "difficulty": "medium", "success_criteria": "評価3.5以上の宿名と評価が示されている。"}
+{"task_id": 66, "category": "travel", "start_url": "https://www.booking.com", "intent": "大阪で朝食付きプランのホテルを探し、最初に表示されたホテルの名前を報告してください。", "difficulty": "medium", "success_criteria": "朝食付きの条件で検索し、最初に表示されたホテル名が示されている。"}
+{"task_id": 67, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "テックニュースの動画を検索し、再生回数が最も多い動画のタイトルと再生回数を報告してください。", "difficulty": "hard", "success_criteria": "検索結果から再生回数が最大の動画を特定し、タイトルと再生回数が示されている。"}
+{"task_id": 68, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「お会計をお願いします。」を英語に翻訳したうえで、丁寧表現になっているか確認してください。", "difficulty": "medium", "success_criteria": "英語翻訳結果が示され、丁寧表現かどうかの判断がある。"}
+{"task_id": 69, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "スマートフォンケースの送料無料かつレビュー件数が500件以上の商品を1つ見つけ、商品名とURLを教えてください。", "difficulty": "hard", "success_criteria": "送料無料かつレビュー件数500件以上の商品名とURLが示されている。"}
+{"task_id": 70, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「駅はどこですか？」をドイツ語に翻訳し、翻訳結果を報告してください。", "difficulty": "easy", "success_criteria": "ドイツ語への翻訳結果が示されている。"}
+{"task_id": 71, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "ニューヨーク駅周辺で評価が4.0以上の美術館を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.0以上の美術館を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 72, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "光合成のページを開き、概要の最初の段落を要約してください。", "difficulty": "medium", "success_criteria": "概要の最初の段落が要約されている。"}
+{"task_id": 73, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "料理 レシピの動画を検索し、再生回数が最も多い動画のタイトルと再生回数を報告してください。", "difficulty": "hard", "success_criteria": "検索結果から再生回数が最大の動画を特定し、タイトルと再生回数が示されている。"}
+{"task_id": 74, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "東京駅周辺で評価が4.2以上のレストランを検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.2以上のレストランを検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 75, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "HIKAKINのチャンネルを開き、最新動画のタイトルを報告してください。", "difficulty": "medium", "success_criteria": "チャンネルの最新動画タイトルが示されている。"}
+{"task_id": 76, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "Bluetoothスピーカーを検索し、ランキング上位3件のうち最安の商品ページを開いて価格を教えてください。", "difficulty": "hard", "success_criteria": "ランキング上位3件の比較が行われ、最安の価格が示されている。"}
+{"task_id": 77, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "量子コンピュータのページを開き、概要の最初の段落を要約してください。", "difficulty": "medium", "success_criteria": "概要の最初の段落が要約されている。"}
+{"task_id": 78, "category": "travel", "start_url": "https://www.jalan.net", "intent": "箱根温泉の宿で、3000円以下のプランを探してプラン名を報告してください。", "difficulty": "hard", "success_criteria": "3000円以下のプラン名が示されている。"}
+{"task_id": 79, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "大阪駅周辺で評価が3.5以上の美術館を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価3.5以上の美術館を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 80, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "那覇から神戸までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 81, "category": "information", "start_url": "https://www.google.co.jp", "intent": "近くのジムについて調べ、信頼できる情報源を2つ以上見つけて要点を3つにまとめてください。", "difficulty": "hard", "success_criteria": "2つ以上の情報源に言及し、要点が3つに整理されている。"}
+{"task_id": 82, "category": "travel", "start_url": "https://www.jalan.net", "intent": "有馬温泉の宿を検索し、評価が4.0以上の宿を1つ選び、その宿名と評価を報告してください。", "difficulty": "medium", "success_criteria": "評価4.0以上の宿名と評価が示されている。"}
+{"task_id": 83, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "札幌から神戸までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 84, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "フランス革命について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 85, "category": "travel", "start_url": "https://www.jalan.net", "intent": "草津温泉の宿で、50000円以下のプランを探してプラン名を報告してください。", "difficulty": "hard", "success_criteria": "50000円以下のプラン名が示されている。"}
+{"task_id": 86, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "札幌から横浜までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 87, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "アポロ11号について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 88, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「駅はどこですか？」を英語に翻訳し、翻訳結果を報告してください。", "difficulty": "easy", "success_criteria": "英語への翻訳結果が示されている。"}
+{"task_id": 89, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "パリ駅周辺で評価が4.5以上の書店を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.5以上の書店を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 90, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "東海オンエアのチャンネルを開き、最新動画のタイトルを報告してください。", "difficulty": "medium", "success_criteria": "チャンネルの最新動画タイトルが示されている。"}
+{"task_id": 91, "category": "productivity", "start_url": "https://www.youtube.com", "intent": "東海オンエアのチャンネルを開き、最新動画のタイトルを報告してください。", "difficulty": "medium", "success_criteria": "チャンネルの最新動画タイトルが示されている。"}
+{"task_id": 92, "category": "travel", "start_url": "https://www.jalan.net", "intent": "有馬温泉の宿を検索し、評価が3.5以上の宿を1つ選び、その宿名と評価を報告してください。", "difficulty": "medium", "success_criteria": "評価3.5以上の宿名と評価が示されている。"}
+{"task_id": 93, "category": "information", "start_url": "https://ja.wikipedia.org", "intent": "アポロ11号について書かれているセクションを探し、その見出しと要点を2つ挙げてください。", "difficulty": "hard", "success_criteria": "該当セクションの見出しと2つの要点が示されている。"}
+{"task_id": 94, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "京都駅周辺で評価が4.5以上の書店を検索し、最初に表示された店舗名と評価を報告してください。", "difficulty": "hard", "success_criteria": "評価4.5以上の書店を検索し、最初の店舗名と評価が示されている。"}
+{"task_id": 95, "category": "shopping", "start_url": "https://www.rakuten.co.jp", "intent": "メカニカルキーボードを検索し、ランキング上位3件のうち最安の商品ページを開いて価格を教えてください。", "difficulty": "hard", "success_criteria": "ランキング上位3件の比較が行われ、最安の価格が示されている。"}
+{"task_id": 96, "category": "information", "start_url": "https://www.google.co.jp", "intent": "ソニーの株価(現在値)を調べ、前日比もあわせて報告してください。", "difficulty": "hard", "success_criteria": "現在値と前日比が提示されている。"}
+{"task_id": 97, "category": "maps", "start_url": "https://www.google.com/maps", "intent": "東京から横浜までの公共交通機関のルートを調べ、所要時間を報告してください。", "difficulty": "medium", "success_criteria": "公共交通機関ルートの所要時間が示されている。"}
+{"task_id": 98, "category": "productivity", "start_url": "https://translate.google.co.jp", "intent": "「駅はどこですか？」をスペイン語に翻訳し、翻訳結果を報告してください。", "difficulty": "easy", "success_criteria": "スペイン語への翻訳結果が示されている。"}
+{"task_id": 99, "category": "information", "start_url": "https://www.google.co.jp", "intent": "東京のおすすめラーメンについて調べ、信頼できる情報源を2つ以上見つけて要点を3つにまとめてください。", "difficulty": "hard", "success_criteria": "2つ以上の情報源に言及し、要点が3つに整理されている。"}
